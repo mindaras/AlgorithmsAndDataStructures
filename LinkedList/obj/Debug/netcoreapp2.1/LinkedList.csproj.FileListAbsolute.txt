@@ -1,0 +1,11 @@
+/Users/mindaugaslazauskas/AlgorithmsAndDataStructures/LinkedList/bin/Debug/netcoreapp2.1/LinkedList.deps.json
+/Users/mindaugaslazauskas/AlgorithmsAndDataStructures/LinkedList/bin/Debug/netcoreapp2.1/LinkedList.runtimeconfig.json
+/Users/mindaugaslazauskas/AlgorithmsAndDataStructures/LinkedList/bin/Debug/netcoreapp2.1/LinkedList.runtimeconfig.dev.json
+/Users/mindaugaslazauskas/AlgorithmsAndDataStructures/LinkedList/bin/Debug/netcoreapp2.1/LinkedList.dll
+/Users/mindaugaslazauskas/AlgorithmsAndDataStructures/LinkedList/bin/Debug/netcoreapp2.1/LinkedList.pdb
+/Users/mindaugaslazauskas/AlgorithmsAndDataStructures/LinkedList/obj/Debug/netcoreapp2.1/LinkedList.csprojAssemblyReference.cache
+/Users/mindaugaslazauskas/AlgorithmsAndDataStructures/LinkedList/obj/Debug/netcoreapp2.1/LinkedList.csproj.CoreCompileInputs.cache
+/Users/mindaugaslazauskas/AlgorithmsAndDataStructures/LinkedList/obj/Debug/netcoreapp2.1/LinkedList.AssemblyInfoInputs.cache
+/Users/mindaugaslazauskas/AlgorithmsAndDataStructures/LinkedList/obj/Debug/netcoreapp2.1/LinkedList.AssemblyInfo.cs
+/Users/mindaugaslazauskas/AlgorithmsAndDataStructures/LinkedList/obj/Debug/netcoreapp2.1/LinkedList.dll
+/Users/mindaugaslazauskas/AlgorithmsAndDataStructures/LinkedList/obj/Debug/netcoreapp2.1/LinkedList.pdb
