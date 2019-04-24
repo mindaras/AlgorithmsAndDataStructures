@@ -1,0 +1,11 @@
+/Users/mindaugaslazauskas/AlgorithmsAndDataStructures/Queue/bin/Debug/netcoreapp2.1/Queue.deps.json
+/Users/mindaugaslazauskas/AlgorithmsAndDataStructures/Queue/bin/Debug/netcoreapp2.1/Queue.runtimeconfig.json
+/Users/mindaugaslazauskas/AlgorithmsAndDataStructures/Queue/bin/Debug/netcoreapp2.1/Queue.runtimeconfig.dev.json
+/Users/mindaugaslazauskas/AlgorithmsAndDataStructures/Queue/bin/Debug/netcoreapp2.1/Queue.dll
+/Users/mindaugaslazauskas/AlgorithmsAndDataStructures/Queue/bin/Debug/netcoreapp2.1/Queue.pdb
+/Users/mindaugaslazauskas/AlgorithmsAndDataStructures/Queue/obj/Debug/netcoreapp2.1/Queue.csprojAssemblyReference.cache
+/Users/mindaugaslazauskas/AlgorithmsAndDataStructures/Queue/obj/Debug/netcoreapp2.1/Queue.csproj.CoreCompileInputs.cache
+/Users/mindaugaslazauskas/AlgorithmsAndDataStructures/Queue/obj/Debug/netcoreapp2.1/Queue.AssemblyInfoInputs.cache
+/Users/mindaugaslazauskas/AlgorithmsAndDataStructures/Queue/obj/Debug/netcoreapp2.1/Queue.AssemblyInfo.cs
+/Users/mindaugaslazauskas/AlgorithmsAndDataStructures/Queue/obj/Debug/netcoreapp2.1/Queue.dll
+/Users/mindaugaslazauskas/AlgorithmsAndDataStructures/Queue/obj/Debug/netcoreapp2.1/Queue.pdb
