@@ -1,0 +1,11 @@
+/Users/mindaugaslazauskas/AlgorithmsAndDataStructures/Stack/bin/Debug/netcoreapp2.1/Stack.deps.json
+/Users/mindaugaslazauskas/AlgorithmsAndDataStructures/Stack/bin/Debug/netcoreapp2.1/Stack.runtimeconfig.json
+/Users/mindaugaslazauskas/AlgorithmsAndDataStructures/Stack/bin/Debug/netcoreapp2.1/Stack.runtimeconfig.dev.json
+/Users/mindaugaslazauskas/AlgorithmsAndDataStructures/Stack/bin/Debug/netcoreapp2.1/Stack.dll
+/Users/mindaugaslazauskas/AlgorithmsAndDataStructures/Stack/bin/Debug/netcoreapp2.1/Stack.pdb
+/Users/mindaugaslazauskas/AlgorithmsAndDataStructures/Stack/obj/Debug/netcoreapp2.1/Stack.csprojAssemblyReference.cache
+/Users/mindaugaslazauskas/AlgorithmsAndDataStructures/Stack/obj/Debug/netcoreapp2.1/Stack.csproj.CoreCompileInputs.cache
+/Users/mindaugaslazauskas/AlgorithmsAndDataStructures/Stack/obj/Debug/netcoreapp2.1/Stack.AssemblyInfoInputs.cache
+/Users/mindaugaslazauskas/AlgorithmsAndDataStructures/Stack/obj/Debug/netcoreapp2.1/Stack.AssemblyInfo.cs
+/Users/mindaugaslazauskas/AlgorithmsAndDataStructures/Stack/obj/Debug/netcoreapp2.1/Stack.dll
+/Users/mindaugaslazauskas/AlgorithmsAndDataStructures/Stack/obj/Debug/netcoreapp2.1/Stack.pdb
