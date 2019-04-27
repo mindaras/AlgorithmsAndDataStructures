@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queue", "Queue\Queue.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTree", "BinaryTree\BinaryTree.csproj", "{8AA7B4B6-C281-4B9C-AF3C-AE6B47C3FF52}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashTable", "HashTable\HashTable.csproj", "{54D082CD-9487-4C64-B61E-266612DB7112}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,5 +33,9 @@ Global
 		{8AA7B4B6-C281-4B9C-AF3C-AE6B47C3FF52}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8AA7B4B6-C281-4B9C-AF3C-AE6B47C3FF52}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8AA7B4B6-C281-4B9C-AF3C-AE6B47C3FF52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54D082CD-9487-4C64-B61E-266612DB7112}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54D082CD-9487-4C64-B61E-266612DB7112}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54D082CD-9487-4C64-B61E-266612DB7112}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54D082CD-9487-4C64-B61E-266612DB7112}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
