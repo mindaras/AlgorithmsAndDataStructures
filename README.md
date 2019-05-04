@@ -1,2 +1,2 @@
 # AlgorithmsAndDataStructures
-Implementations of different data structures
+Implementations of different data structures.
